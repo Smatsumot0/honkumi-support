@@ -43,7 +43,7 @@ export default function Home() {
       <section className="card">
         <h2>お問い合わせ</h2>
         <p>
-          不具合報告、ご意見、ご要望は以下のメールアドレスまでご連絡ください。
+          不具合報告、操作方法、課金・購入に関するお問い合わせ、ご意見、ご要望は以下のメールアドレスまでご連絡ください。
         </p>
         <p>
           <a className="button" href="mailto:honkumi-support@orca-web.jp">

@@ -17,7 +17,7 @@ export default function PrivacyPage() {
           Honkumiは、アプリの機能提供、改善、不具合対応のために必要な範囲で情報を取り扱う場合があります。
         </p>
         <p>
-          原稿本文や作品データについては、アプリの仕様に従い、ユーザーの端末内またはユーザーが選択した保存先で管理されます。
+          原稿本文や作品データについては、アプリの仕様に従い、ユーザーの端末内で管理されます。
         </p>
       </section>
 
@@ -59,7 +59,7 @@ export default function PrivacyPage() {
       </section>
 
       <footer className="footer">
-        <p>制定日：2026年6月24日</p>
+        <p>制定日：2026年7月16日</p>
         <p>
           <Link href="/">サポートページへ戻る</Link>
         </p>
