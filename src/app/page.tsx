@@ -1,4 +1,3 @@
-import Image from "next/image"
 import Link from "next/link"
 
 const faqs = [
@@ -33,14 +32,7 @@ export default function Home() {
   return (
     <main className="page">
       <section className="hero">
-        <Image
-          className="brandTitle"
-          src="/title.svg"
-          alt="Honkumi"
-          width={2400}
-          height={1000}
-          priority
-        />
+        <p className="eyebrow">Honkumi Support</p>
         <h1>Honkumi サポート</h1>
         <p className="lead">
           Honkumiは、同人小説・小説原稿の編集から入稿用PDF作成までを
