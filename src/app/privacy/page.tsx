@@ -22,6 +22,19 @@ export default function PrivacyPage() {
       </section>
 
       <section className="card">
+        <h2>広告配信について</h2>
+        <p>
+          本アプリでは、広告配信のためにGoogle AdMob等の広告配信サービスを利用する場合があります。
+        </p>
+        <p>
+          広告配信事業者は、広告の表示、広告効果の測定、不正利用防止、サービス改善のために、端末情報、広告識別子、利用状況データ、診断情報等を取得する場合があります。
+        </p>
+        <p>
+          本アプリで作成された小説本文・作品データは、広告配信のために送信されることはありません。
+        </p>
+      </section>
+
+      <section className="card">
         <h2>利用目的</h2>
         <p>取得した情報は、以下の目的で利用します。</p>
         <ul>
@@ -67,4 +80,3 @@ export default function PrivacyPage() {
     </main>
   )
 }
-
